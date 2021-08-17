@@ -10,10 +10,10 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 
+![download](https://user-images.githubusercontent.com/39945260/129792495-a8744a96-91ff-426b-a873-316923bf2d32.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ https://internship.zuri.team
 
 ![Flutter Demo - Personal - Microsoft_ Edge 2021-08-17 20-02-44](https://user-images.githubusercontent.com/39945260/129788757-9c0facca-b065-46b9-89bf-3ff8022adc9b.gif)
 ![Android Emulator - Nexus_6_API_29_5554 2021-08-17 19-49-59](https://user-images.githubusercontent.com/39945260/129788746-075b4cc9-a143-48aa-9d69-9ef54c90bf60.gif)
